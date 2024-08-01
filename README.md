@@ -1,6 +1,6 @@
 Private Fork 
 
-Oficial files avolible on [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) 
+Official files available on [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) 
 
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
